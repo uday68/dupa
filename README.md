@@ -2,9 +2,11 @@
 
 # D.U.P.A (Data Unity Protection Accessibility)
 
-!(https://www.google.com/search?q=https://img.shields.io/badge/rust-%2523000000.svg%3Fstyle%3Dfor-the-badge%26logo%3Drust%26logoColor%3Dwhite)
-!([https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB](https://www.google.com/search?q=https://img.shields.io/badge/react-%252320232a.svg%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB))
-!([https://img.shields.io/badge/status-Alpha-orange?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/status-Alpha-orange%3Fstyle%3Dfor-the-badge))
+![Badge Label](https://img.shields.io/badge/<label>-<color>.svg?style=for-the-badge&logo=<logo>&logoColor=<color>) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Status](https://img.shields.io/badge/status-Alpha-orange?style=for-the-badge)
+
+
+
+
 
 > "Old laptops aren’t useless — they’re perfect for light server tasks."
 
@@ -62,7 +64,7 @@ D.U.P.A uses a layered architecture to maximize performance on modest hardware:
 ### Installation
 
 1. **Clone the repository:**bash
-git clone [https://github.com/your-username/dupa.git](https://www.google.com/search?q=https://github.com/your-username/dupa.git)
+git clone [https://github.com/your-username/dupa.git](https://www.google.com/search?q=https://github.com/uday68/dupa.git)
 cd dupa
 ```
 
