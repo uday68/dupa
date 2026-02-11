@@ -64,7 +64,7 @@ D.U.P.A uses a layered architecture to maximize performance on modest hardware:
 ### Installation
 
 1. **Clone the repository:**bash
-git clone [https://github.com/your-username/dupa.git](https://www.google.com/search?q=https://github.com/uday68/dupa.git)
+git clone [https://github.com/uday68/dupa.git](https://www.google.com/search?q=https://github.com/uday68/dupa.git)
 cd dupa
 ```
 
