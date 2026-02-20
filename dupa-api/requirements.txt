@@ -1,0 +1,17 @@
+fastapi==0.110.0# high performance web framework[cite:54,55]
+uvicorn[standard]==0.27.1 #ASGI server for high concurrency[cite:263]
+python-multipart==0.0.9 #required by the fastapi for handling file uploads
+
+#--Cryptography & Security ---
+agron2-ciffi==23.1.0 #Memory-hard key Derviation function(Argon2id)
+
+
+#--database & Metadata ---
+
+qdrant-client==1.8.0 #client for the qdrant vector database(semantic search)
+
+#---cloud Bridge (optional Backup) ---
+boto3==1.34.60
+
+# --- rust-python Bridge ---
+matruin ==1.5.0 #build system for py03 to compile the rust core into python
